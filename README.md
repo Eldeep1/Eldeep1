@@ -4,15 +4,12 @@ Hi 👋 My name is Ali Eldeep
 Software Engineer | Flutter Developer
 -------------------------------------
 
-I am a computer science student passionate about learning new technologies and reading books that deepen my understanding of the computing field. I enjoy solving real-world problems through mobile development and have a keen interest in cybersecurity to ensure the creation of secure applications for the future. My goal is to leverage my knowledge to make a positive impact.
-
-* 🌍  I'm based in Cairo, Egypt
 * ✉️  You can contact me at [alieldeep111@gmail.com](mailto:alieldeep111@gmail.com)
 * 🚀  I'm currently working on [Digital Design](http://play.google.com/store/apps/details?id=com.Depogramming.logic_design)
 * 🧠  I'm learning Android Development
 * 🤝  I'm open to collaborating on Flutter projects
 * 📚 I am currently reading Head First OOP.
-* ⚡  Also, have little experience about Backend development
+* ⚡  Also, have experience about Backend development using spring boot
 
 
 ### Skills
