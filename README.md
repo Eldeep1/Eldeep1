@@ -5,7 +5,6 @@ Software Engineer | Flutter Developer
 -------------------------------------
 
 * ✉️  You can contact me at [alieldeep111@gmail.com](mailto:alieldeep111@gmail.com)
-* 🚀  I'm currently working on [Digital Design](http://play.google.com/store/apps/details?id=com.Depogramming.logic_design)
 * 🧠  I'm learning Android Development
 * 🤝  I'm open to collaborating on Flutter projects
 * 📚 I am currently reading Head First OOP.
