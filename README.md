@@ -28,8 +28,13 @@ Software Engineer | Flutter Developer
 <table>
    <tr>
       <td><img src="https://github-readme-stats.vercel.app/api?username=Eldeep1&include_all_commits=true&count_private=true&show_icons=true&line_height=24&title_color=1363DF&icon_color=47B5FF&text_color=DFF6FF&bg_color=0,000000,130F40" alt="Ali Eldeep" />
-         <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Eldeep1&theme=dark&line_height=23" alt="Eldeep1" /></td>
-   </tr>
+    <td>
+      <img 
+        id="streakBadge"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Eldeep1&theme=dark&line_height=23" 
+        alt="Eldeep1"
+        onerror="this.style.display='none'" />
+    </td>   </tr>
 </table>
 <div align="center">
 
